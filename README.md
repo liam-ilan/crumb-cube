@@ -3,9 +3,11 @@ A cube wireframe renderer, in a 34x34 [Crumb](https://github.com/liam-ilan/crumb
 
 inspired by [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html) and [cube.py](https://github.com/liam-ilan/python-cube).
 
-| Code                                   | Output                                         |
-|----------------------------------------|------------------------------------------------|
-| ![45x45 Script](./assets/code-square-font.png) | ![Wireframe Cube](./assets/result.gif) |
+![Script](./assets/code-square-font.png)
+*Figure 1. Code*
+
+![Wireframe Cube](./assets/result.gif)
+*Figure 2. Result*
 
 ## Development
 Run with `./crumb cube.crumb`
